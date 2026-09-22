@@ -39,9 +39,9 @@ app is computed live from the data — nothing is hard-coded.
 
 > *(Insert screenshots after running the app)*
 >
-> <!-- ![Predict Tab](screenshots/predict.png) -->
-> <!-- ![Data Explorer](screenshots/explorer.png) -->
-> <!-- ![Model Performance](screenshots/performance.png) -->
+> <!-- ![Predict Tab](predict.png) -->
+> <!-- ![Data Explorer](explorer.png) -->
+> <!-- ![Model Performance](performance.png) -->
 
 ---
 
