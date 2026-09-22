@@ -39,9 +39,9 @@ app is computed live from the data — nothing is hard-coded.
 
 > *(Insert screenshots after running the app)*
 >
-> <!-- ![Predict Tab](predict.png) -->
-> <!-- ![Data Explorer](explorer.png) -->
-> <!-- ![Model Performance](performance.png) -->
+> <!-- ![Predict Tab](https://github.com/ganeshhshah-jpg/AQI-Prediction-ML-IBMBob/blob/main/predict.png) -->
+> <!-- ![Data Explorer](https://github.com/ganeshhshah-jpg/AQI-Prediction-ML-IBMBob/blob/main/explorer.png) -->
+> <!-- ![Model Performance](https://github.com/ganeshhshah-jpg/AQI-Prediction-ML-IBMBob/blob/main/performance.png) -->
 
 ---
 
